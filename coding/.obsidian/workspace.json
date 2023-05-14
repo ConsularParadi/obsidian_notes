@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "b38ed314b7c50707",
+    "type": "split",
+    "children": [
+      {
+        "id": "189e0b72ab558dd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a90e7d44fa4b015",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating System/Basics/Intro.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05f05bea210703d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a14a5e0e93c469f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "389efa13acf2f790",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "83e79976d49b42b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "permission",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "698afb6cf841a38a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c70c76acec248280",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7552e7a7ab19a214",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7d65132b62f4e23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5083dee9137240a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Operating System/Basics/Intro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f71f273b8cf9c2e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Operating System/Basics/Intro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6287a16896ee148",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "084a4c3a2e1b2bc2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Operating System/Basics/Intro.md"
+              }
+            }
+          },
+          {
+            "id": "f6aecfb0d07fc9c7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": false,
+      "homepage:Open homepage": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+    }
+  },
+  "active": "389efa13acf2f790",
+  "lastOpenFiles": [
+    "Operating System/Virtualization",
+    "Home.md",
+    "Machine Learning/Performance Measures/Perfomance measures.md",
+    "Machine Learning/Reinforcement Learning/Multi-Armed Bandit.md",
+    "Machine Learning/Performance Measures/Cross Validation.md",
+    "Algorithm Design/Untitled.md",
+    "Computer Vision/image segmentation/opencv.md",
+    "Design Principles of Programming Languages/OOPS.md",
+    "Design Principles of Programming Languages",
+    "Operating System/Persistence/Sun's Network File System.md",
+    "Operating System/Persistence/Distributed Systems.md",
+    "Operating System/Persistence/Fast File System.md",
+    "Operating System/Persistence/Crash Consistency.md",
+    "Operating System/Persistence/File System Implementation.md",
+    "Operating System/Persistence/Files & Dirs.md",
+    "Operating System/Persistence/Hard Disk Drives.md",
+    "Operating System/Persistence/IO.md",
+    "Operating System/Persistence/Andrew File System.md",
+    "Media/Images/afs vs nfs.png",
+    "Media/Images/operating system/persistence/AFS 1.png",
+    "Media/Images/operating system/persistence/cache consistency problem.png",
+    "Media/Images/operating system/persistence/3 types of loss.png",
+    "Media/Images/operating system/persistence/NFS v2 protocol.png",
+    "Media/Images/operating system/persistence/server-client system.png",
+    "Operating System/Persistence/Log-Structured FS.md",
+    "Media/Images/operating system/persistence/rpc.png",
+    "Media/Images/operating system/persistence/reliable network layer.png",
+    "Media/Images/operating system/persistence/how much to buffer 2.png",
+    "Media/Images/operating system/persistence/how much to buffer.png",
+    "Operating System/Concurrency/Lock.md",
+    "Operating System/Concurrency/Condition variable.md",
+    "Operating System/Concurrency/Thread.md",
+    "Operating System/Concurrency/Concurrent data structure.md",
+    "Media/Images/operating system/persistence",
+    "Operating System/Persistence",
+    "Media/Images/operating system/concurrency",
+    "Media/Images/operating system",
+    "fslmlfm.md",
+    "Operating System/Concurrency",
+    "Operating System/Basics/Intro.md",
+    "Algorithm Design",
+    "Operating System/Basics",
+    "Operating System",
+    "Media/Images/machine learning/performance measures/confusion matrix",
+    "().md",
+    "computer vision/image segmentation/opencv/Untitled.md"
+  ]
+}
