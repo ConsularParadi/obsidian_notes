@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "189e0b72ab558dd9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4a90e7d44fa4b015",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating System/Basics/Intro.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
+        "id": "3d95d2a15695a08a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Operating System/Concurrency/Lock.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
-        ]
+        }
       }
     ],
     "direction": "vertical"
@@ -94,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System/Basics/Intro.md",
+                "file": "Operating System/Concurrency/Lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System/Basics/Intro.md",
+                "file": "Operating System/Concurrency/Lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System/Basics/Intro.md"
+                "file": "Operating System/Concurrency/Lock.md"
               }
             }
           },
@@ -169,10 +163,30 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "389efa13acf2f790",
+  "active": "3d95d2a15695a08a",
   "lastOpenFiles": [
-    "Operating System/Virtualization",
+    "Operating System/Concurrency/Concurrent data structure.md",
+    "Operating System/Concurrency/Condition variable.md",
+    "Operating System/Concurrency/Lock.md",
+    "Operating System/Concurrency/Thread.md",
+    "Operating System/Persistence/Andrew File System.md",
+    "Operating System/Persistence/Sun's Network File System.md",
+    "Operating System/Persistence/Distributed Systems.md",
+    "Operating System/Persistence/Crash Consistency.md",
+    "Operating System/Persistence/Fast File System.md",
+    "Operating System/Persistence/Hard Disk Drives.md",
+    "Operating System/Persistence/File System Implementation.md",
+    "Operating System/Persistence/Files & Dirs.md",
+    "Operating System/Persistence/IO.md",
     "Home.md",
+    "Media/Images/operating system/virtualization/pcb.png",
+    "Media/Images/operating system/virtualization/process states.png",
+    "Operating System/Virtualization/Process.md",
+    "Media/Images/operating system/virtualization/program loading.png",
+    "Media/Images/operating system/virtualization",
+    "Operating System/Basics/Intro.md",
+    "Operating System/Virtualization",
+    "Operating System/Virtualization",
     "Machine Learning/Performance Measures/Perfomance measures.md",
     "Machine Learning/Reinforcement Learning/Multi-Armed Bandit.md",
     "Machine Learning/Performance Measures/Cross Validation.md",
@@ -180,16 +194,7 @@
     "Computer Vision/image segmentation/opencv.md",
     "Design Principles of Programming Languages/OOPS.md",
     "Design Principles of Programming Languages",
-    "Operating System/Persistence/Sun's Network File System.md",
-    "Operating System/Persistence/Distributed Systems.md",
-    "Operating System/Persistence/Fast File System.md",
-    "Operating System/Persistence/Crash Consistency.md",
-    "Operating System/Persistence/File System Implementation.md",
-    "Operating System/Persistence/Files & Dirs.md",
-    "Operating System/Persistence/Hard Disk Drives.md",
-    "Operating System/Persistence/IO.md",
-    "Operating System/Persistence/Andrew File System.md",
-    "Media/Images/afs vs nfs.png",
+    "Media/Images/operating system/persistence/afs vs nfs.png",
     "Media/Images/operating system/persistence/AFS 1.png",
     "Media/Images/operating system/persistence/cache consistency problem.png",
     "Media/Images/operating system/persistence/3 types of loss.png",
@@ -197,25 +202,13 @@
     "Media/Images/operating system/persistence/server-client system.png",
     "Operating System/Persistence/Log-Structured FS.md",
     "Media/Images/operating system/persistence/rpc.png",
-    "Media/Images/operating system/persistence/reliable network layer.png",
-    "Media/Images/operating system/persistence/how much to buffer 2.png",
-    "Media/Images/operating system/persistence/how much to buffer.png",
-    "Operating System/Concurrency/Lock.md",
-    "Operating System/Concurrency/Condition variable.md",
-    "Operating System/Concurrency/Thread.md",
-    "Operating System/Concurrency/Concurrent data structure.md",
     "Media/Images/operating system/persistence",
     "Operating System/Persistence",
     "Media/Images/operating system/concurrency",
     "Media/Images/operating system",
     "fslmlfm.md",
     "Operating System/Concurrency",
-    "Operating System/Basics/Intro.md",
     "Algorithm Design",
-    "Operating System/Basics",
-    "Operating System",
-    "Media/Images/machine learning/performance measures/confusion matrix",
-    "().md",
-    "computer vision/image segmentation/opencv/Untitled.md"
+    "().md"
   ]
 }
