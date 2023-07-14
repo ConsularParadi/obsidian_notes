@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3d95d2a15695a08a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Operating System/Concurrency/Lock.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+        "id": "be4c30f00acd39a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19b79a99d7fdc289",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -43,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "permission",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System/Concurrency/Lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System/Concurrency/Lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Operating System/Concurrency/Lock.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,11 +160,25 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "3d95d2a15695a08a",
+  "active": "19b79a99d7fdc289",
   "lastOpenFiles": [
+    "Computer Vision/Tensorflow/Basics.md",
+    "DSA/Love Babbar (C++)/Bitwise, For, Operator Precedence.md",
+    "Computer Vision/Tensorflow",
+    "Home.md",
+    "Media/Images/dsa/love babbar c++/operator precedence c++.png",
+    "Media/Images/dsa/love babbar c++",
+    "Media/Images/dsa",
+    "Media/Images/dsa/love babbar c++/bitwise table.png",
+    "DSA/Love Babbar (C++)",
+    "DSA",
+    "2023-06-13.md",
+    "Computer Vision/image segmentation/opencv.md",
+    "Design Principles of Programming Languages/OOPS.md",
+    "Machine Learning/Tensorflow",
+    "Operating System/Concurrency/Lock.md",
     "Operating System/Concurrency/Concurrent data structure.md",
     "Operating System/Concurrency/Condition variable.md",
-    "Operating System/Concurrency/Lock.md",
     "Operating System/Concurrency/Thread.md",
     "Operating System/Persistence/Andrew File System.md",
     "Operating System/Persistence/Sun's Network File System.md",
@@ -178,7 +189,6 @@
     "Operating System/Persistence/File System Implementation.md",
     "Operating System/Persistence/Files & Dirs.md",
     "Operating System/Persistence/IO.md",
-    "Home.md",
     "Media/Images/operating system/virtualization/pcb.png",
     "Media/Images/operating system/virtualization/process states.png",
     "Operating System/Virtualization/Process.md",
@@ -191,24 +201,12 @@
     "Machine Learning/Reinforcement Learning/Multi-Armed Bandit.md",
     "Machine Learning/Performance Measures/Cross Validation.md",
     "Algorithm Design/Untitled.md",
-    "Computer Vision/image segmentation/opencv.md",
-    "Design Principles of Programming Languages/OOPS.md",
     "Design Principles of Programming Languages",
     "Media/Images/operating system/persistence/afs vs nfs.png",
     "Media/Images/operating system/persistence/AFS 1.png",
     "Media/Images/operating system/persistence/cache consistency problem.png",
     "Media/Images/operating system/persistence/3 types of loss.png",
     "Media/Images/operating system/persistence/NFS v2 protocol.png",
-    "Media/Images/operating system/persistence/server-client system.png",
-    "Operating System/Persistence/Log-Structured FS.md",
-    "Media/Images/operating system/persistence/rpc.png",
-    "Media/Images/operating system/persistence",
-    "Operating System/Persistence",
-    "Media/Images/operating system/concurrency",
-    "Media/Images/operating system",
-    "fslmlfm.md",
-    "Operating System/Concurrency",
-    "Algorithm Design",
-    "().md"
+    "Operating System/Persistence/Log-Structured FS.md"
   ]
 }
